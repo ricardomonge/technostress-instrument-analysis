@@ -82,6 +82,19 @@ install.packages(c(
 
 ---
 
+---
+
+## 🔒 Data Provenance and Ethical Compliance
+
+The datasets included in this repository were collected as part of a research project aimed at developing and validating a multidimensional scale to assess technostress, technological self-efficacy, academic performance, and digital safety in undergraduate students.
+
+All participants were first-year university students who voluntarily completed the instrument and provided informed consent for their data to be used in academic research. Data collection procedures complied with ethical standards for research involving human subjects.
+
+The research protocol was reviewed and approved by the **Scientific Ethics Committee of Universidad de Las Américas (Chile)**. The study adhered strictly to all institutional, national, and international guidelines for ethical conduct and data protection, including anonymity and the implementation of reliability protocols throughout the process.
+
+The datasets are fully anonymized and are provided solely for the purposes of transparency, replication, and academic scrutiny.
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
