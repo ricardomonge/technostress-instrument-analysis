@@ -1,0 +1,73 @@
+{
+  "R": {
+    "Version": "4.3.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "tidyverse": {
+      "Package": "tidyverse",
+      "Version": "2.0.0",
+      "Source": "CRAN"
+    },
+    "readxl": {
+      "Package": "readxl",
+      "Version": "1.4.3",
+      "Source": "CRAN"
+    },
+    "gtsummary": {
+      "Package": "gtsummary",
+      "Version": "1.7.2",
+      "Source": "CRAN"
+    },
+    "flextable": {
+      "Package": "flextable",
+      "Version": "0.9.5",
+      "Source": "CRAN"
+    },
+    "ftExtra": {
+      "Package": "ftExtra",
+      "Version": "0.6.1",
+      "Source": "CRAN"
+    },
+    "labelled": {
+      "Package": "labelled",
+      "Version": "2.12.0",
+      "Source": "CRAN"
+    },
+    "huxtable": {
+      "Package": "huxtable",
+      "Version": "5.5.3",
+      "Source": "CRAN"
+    },
+    "psych": {
+      "Package": "psych",
+      "Version": "2.3.6",
+      "Source": "CRAN"
+    },
+    "lavaan": {
+      "Package": "lavaan",
+      "Version": "0.6-17",
+      "Source": "CRAN"
+    },
+    "nFactors": {
+      "Package": "nFactors",
+      "Version": "2.4.1",
+      "Source": "CRAN"
+    },
+    "semTools": {
+      "Package": "semTools",
+      "Version": "0.5-6",
+      "Source": "CRAN"
+    },
+    "corrplot": {
+      "Package": "corrplot",
+      "Version": "0.92",
+      "Source": "CRAN"
+    }
+  }
+}
