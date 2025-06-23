@@ -83,28 +83,26 @@ install.packages(c(
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE):
+This project is licensed under the [MIT License](LICENSE).
 
-```
-MIT License
+---
 
-Copyright (c) 2025 Ricardo Monge-Rogel
+## 📚 Citation
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+If you use this repository or its materials in your work, please cite it as follows:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**APA:**
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+> Monge-Rogel, R., Durán-González, G., Panes-Martínez, M., Cáceres-Chomalí, R., & Rojas-Cabello, J. (2025). *technostress-instrument-analysis* [Data and R scripts]. GitHub. https://github.com/ricardomonge/technostress-instrument-analysis
+
+**BibTeX:**
+
+```bibtex
+@misc{monge2025technostress,
+  author       = {Ricardo Monge-Rogel and Guillermo Durán-González and Mónica Panes-Martínez and Rodrigo Cáceres-Chomalí and Jesús Rojas-Cabello},
+  title        = {technostress-instrument-analysis: Data and R scripts for the development and validation of a multidimensional instrument},
+  year         = {2025},
+  url          = {https://github.com/ricardomonge/technostress-instrument-analysis},
+  note         = {GitHub repository}
+}
 ```
