@@ -7,16 +7,18 @@ This repository contains the R scripts and anonymized datasets used in the devel
 ## 📁 Repository Structure
 
 ```
-├── data/                              # Contains anonymized datasets used in the analyses
+├── data/                              # Contains anonymized datasets and documentation
 │   ├── expert_judges_data.xlsx        # Data from expert raters for content validation
 │   ├── data_Aiken_STATS.xlsx          # Formatted ratings used to compute Aiken’s V
 │   ├── pilot_sample.xlsx              # Dataset used in the pilot phase
-│   └── stas_anonymized_data.xlsx      # Full dataset for factor and reliability analysis
+│   ├── stas_anonymized_data.xlsx      # Full dataset for factor and reliability analysis
+│   └── VARIABLES.md                   # Data dictionary describing all variables
 ├── content_validation.R               # Content validity analysis using Aiken's V
 ├── factor_analysis.R                  # Exploratory and confirmatory factor analysis (EFA & CFA)
 ├── pilot_study.R                      # Preprocessing, descriptive analysis, and reliability (pilot sample)
 ├── renv.lock                          # Package versions snapshot for reproducibility with renv
 └── README.md                          # Project overview and documentation
+
 ```
 
 ---
