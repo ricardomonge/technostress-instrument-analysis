@@ -1,4 +1,4 @@
-# Data and R Scripts for the Validation of a Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety Scale
+# Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety
 
 This repository contains the R scripts and anonymized datasets used in the development and psychometric validation of a multi-dimensional instrument designed to assess **technostress**, **technological self-efficacy**, **academic performance**, and **digital safety** among first-year undergraduate students.
 
