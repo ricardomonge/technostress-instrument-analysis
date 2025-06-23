@@ -69,7 +69,7 @@ install.packages(c(
 ## 👥 Authors and Affiliations
 
 - **Ricardo Monge-Rogel**¹²  
-- **Guillermo Durán-González**¹² *  
+- **Guillermo Durán-González**¹²  
 - **Mónica Panes-Martínez**¹²  
 - **Rodrigo Cáceres-Chomalí**⁴  
 - **Jesús Rojas-Cabello**³  
