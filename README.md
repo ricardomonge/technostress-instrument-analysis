@@ -116,7 +116,7 @@ If you use this repository or its materials in your work, please cite it as foll
 ```bibtex
 @misc{monge2025technostress,
   author       = {Ricardo Monge-Rogel and Guillermo Durán-González and Mónica Panes-Martínez and Rodrigo Cáceres-Chomalí and Jesús Rojas-Cabello},
-  title        = {technostress-instrument-analysis: Data and R scripts for the development and validation of a multidimensional instrument},
+  title        = {Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety},
   year         = {2025},
   url          = {https://github.com/ricardomonge/technostress-instrument-analysis},
   note         = {GitHub repository}
