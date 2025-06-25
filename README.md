@@ -109,7 +109,7 @@ If you use this repository or its materials in your work, please cite it as foll
 
 **APA:**
 
-> Monge-Rogel, R., Durán-González, G., Panes-Martínez, M., Cáceres-Chomalí, R., & Rojas-Cabello, J. (2025). *Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety* [Data and R scripts]. GitHub. https://github.com/ricardomonge/technostress-instrument-analysis
+> Monge-Rogel, R., Durán-González, G., Panes-Martínez, M., Cáceres-Chomalí, R., & Rojas-Cabello, J. (2025). *Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety*. GitHub. https://github.com/ricardomonge/technostress-instrument-analysis
 
 **BibTeX:**
 
