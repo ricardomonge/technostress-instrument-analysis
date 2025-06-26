@@ -110,12 +110,12 @@ If you use this repository or its materials in your work, please cite it as foll
 
 **APA:**
 
-> Monge Rogel, R., Durán-González, G. B., Panes-Martínez, M., Rojas Cabello, J. M., & Cáceres-Chomalí, R. I. (2025). Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.15747423
+> Monge Rogel, R., Durán-González, G. B., Panes-Martínez, M., Rojas Cabello, J. M., & Cáceres-Chomalí, R. I. (2025). Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety (v1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15747423
 
 **BibTeX:**
 
 ```bibtex
-@misc{monge_rogel_2025_15747423,
+@dataset{monge_rogel_2025_15747423,
   author       = {Monge Rogel, Ricardo and
                   Durán-González, Guillermo Bernardo and
                   Panes-Martínez, Mónica and
