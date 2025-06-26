@@ -19,7 +19,7 @@ This repository contains the R scripts and anonymized datasets used in the devel
 ├── pilot_study.R                      # Preprocessing, descriptive analysis, and reliability (pilot sample)
 ├── renv.lock                          # Package versions snapshot for reproducibility with renv
 └── README.md                          # Project overview and documentation
-
+└── CITATION.cff                       # Citation metadata file for software citation support
 ```
 
 ---
