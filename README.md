@@ -115,11 +115,21 @@ If you use this repository or its materials in your work, please cite it as foll
 **BibTeX:**
 
 ```bibtex
-@misc{monge2025technostress,
-  author       = {Ricardo Monge-Rogel and Guillermo Durán-González and Mónica Panes-Martínez and Rodrigo Cáceres-Chomalí and Jesús Rojas-Cabello},
-  title        = {Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety},
-  year         = {2025},
-  url          = {https://github.com/ricardomonge/technostress-instrument-analysis},
-  note         = {GitHub repository}
+@misc{monge_rogel_2025_15747423,
+  author       = {Monge Rogel, Ricardo and
+                  Durán-González, Guillermo Bernardo and
+                  Panes-Martínez, Mónica and
+                  Rojas Cabello, Jesús Miguel and
+                  Cáceres-Chomalí, Rodrigo Ignacio},
+  title        = {Data and R Scripts for the Validation of a Scale
+                   on Technostress, Technological Self-Efficacy,
+                   Academic Performance, and Digital Safety
+                  },
+  month        = jun,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.15747423},
+  url          = {https://doi.org/10.5281/zenodo.15747423},
 }
 ```
