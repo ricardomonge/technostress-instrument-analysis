@@ -17,6 +17,7 @@ authors:
   given-names: "Jesús Miguel"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety"
+type: dataset
 version: 1.0.1
 doi: 10.5281/zenodo.15747423
 date-released: 2025-06-26
