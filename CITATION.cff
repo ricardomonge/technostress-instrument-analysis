@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Monge Rogel"
+  given-names: "Ricardo"
+  orcid: "https://orcid.org/0000-0001-5254-2504"
+- family-names: "Durán-González"
+  given-names: "Guillermo Durán"
+  orcid: "https://orcid.org/0000-0002-1965-1423"
+- family-names: "Panes-Martinez"
+  given-names: "Mónica"
+  orcid: "https://orcid.org/0000-0001-6627-2453"
+- family-names: "Cáceres-Chomalí"
+  given-names: "Rodrigo Ignacio"
+  orcid: "https://orcid.org/0009-0007-6262-2226"
+- family-names: "Rojas-Cabello"
+  given-names: "Jesús Miguel"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety"
+version: 1.0.1
+doi: 10.5281/zenodo.15747423
+date-released: 2025-06-26
+url: "https://doi.org/10.5281/zenodo.15747423"
