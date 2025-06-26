@@ -121,15 +121,12 @@ If you use this repository or its materials in your work, please cite it as foll
                   Panes-Martínez, Mónica and
                   Rojas Cabello, Jesús Miguel and
                   Cáceres-Chomalí, Rodrigo Ignacio},
-  title        = {Data and R Scripts for the Validation of a Scale
-                   on Technostress, Technological Self-Efficacy,
-                   Academic Performance, and Digital Safety
-                  },
-  month        = jun,
-  year         = 2025,
+  title        = {Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety},
+  month        = {June},
+  year         = {2025},
   publisher    = {Zenodo},
   version      = {v1.0.1},
   doi          = {10.5281/zenodo.15747423},
-  url          = {https://doi.org/10.5281/zenodo.15747423},
+  url          = {https://doi.org/10.5281/zenodo.15747423}
 }
 ```
