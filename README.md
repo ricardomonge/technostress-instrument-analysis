@@ -5,7 +5,7 @@ This repository contains the R scripts and anonymized datasets used in the devel
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15747423.svg)](https://doi.org/10.5281/zenodo.15747423)
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                              # Contains anonymized datasets and documentation
@@ -24,7 +24,7 @@ This repository contains the R scripts and anonymized datasets used in the devel
 
 ---
 
-## 📊 Description of Scripts
+## Description of Scripts
 
 - `content_validation.R`: Computes Aiken's V and confidence intervals for expert ratings on item relevance and wording.
 - `factor_analysis.R`: Performs dimensionality analysis, exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and computes reliability and validity metrics.
@@ -32,7 +32,7 @@ This repository contains the R scripts and anonymized datasets used in the devel
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 | File                         | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ All datasets are fully anonymized and comply with institutional and ethical rese
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 To reproduce the analyses, please ensure you have the following R packages installed:
 
@@ -58,7 +58,7 @@ install.packages(c(
 
 ---
 
-## ▶️ How to Reproduce the Analyses
+## How to Reproduce the Analyses
 
 1. Clone or download this repository.
 2. Open each script (`.R` files) in RStudio or your preferred R environment.
@@ -70,7 +70,7 @@ install.packages(c(
 
 ---
 
-## 👥 Authors and Affiliations
+## Authors and Affiliations
 
 - **Ricardo Monge-Rogel**¹²  
 - **Guillermo Durán-González**¹²  
@@ -87,7 +87,7 @@ install.packages(c(
 
 ---
 
-## 🔒 Data Provenance and Ethical Compliance
+## Data Provenance and Ethical Compliance
 
 The datasets included in this repository were collected as part of a research project aimed at developing and validating a multidimensional scale to assess technostress, technological self-efficacy, academic performance, and digital safety in undergraduate students.
 
@@ -98,13 +98,13 @@ The research protocol was reviewed and approved by the **Scientific Ethics Commi
 The datasets are fully anonymized and are provided solely for the purposes of transparency, replication, and academic scrutiny.
 
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this repository or its materials in your work, please cite it as follows:
 
