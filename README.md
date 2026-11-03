@@ -3,7 +3,6 @@
 This repository contains the R scripts and anonymized datasets used in the development and psychometric validation of a multi-dimensional instrument designed to assess **technostress**, **technological self-efficacy**, **academic performance**, and **digital safety** among first-year undergraduate students.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15747423.svg)](https://doi.org/10.5281/zenodo.15747423)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15747423.svg)](https://doi.org/10.5281/zenodo.15747423)
 [![License: MIT](https://img.shields.io/badge/Code_License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data_License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![R Version](https://img.shields.io/badge/R-%3E%3D%204.3.0-276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
