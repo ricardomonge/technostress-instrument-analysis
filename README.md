@@ -11,6 +11,14 @@ This repository contains the R scripts and anonymized datasets used in the devel
 [![Reproducible](https://img.shields.io/badge/Reproducible-renv-blue.svg)](https://rstudio.github.io/renv/)
 ---
 
+## Associated Publication
+
+The theoretical framework, methodology, and full discussion of the results derived from these scripts and datasets are published in:
+
+> **Development and validation of a scale to assess technostress, technological self-efficacy, self-reported academic performance, and perceived digital safety in first-year undergraduate students**
+> *Social Sciences & Humanities Open*
+> DOI: [10.1016/j.ssaho.2026.103648](https://doi.org/10.1016/j.ssaho.2026.103648)
+
 ## Repository Structure
 
 ```
