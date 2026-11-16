@@ -120,27 +120,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Citation
 
-If you use this repository or its materials in your work, please cite it as follows:
+If you use this instrument, datasets, or scripts in your work, please cite the primary published article:
 
-**APA:**
+*APA:*
+> Monge-Rogel, R., et al. (2026). Development and validation of a scale to assess technostress, technological self-efficacy, self-reported academic performance, and perceived digital safety in first-year undergraduate students. *Social Sciences & Humanities Open*, 103648. https://doi.org/10.1016/j.ssaho.2026.103648
 
+Additionally, you can cite the dataset and scripts directly from Zenodo:
 > Monge Rogel, R., Durán-González, G. B., Panes-Martínez, M., Rojas Cabello, J. M., & Cáceres-Chomalí, R. I. (2025). Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety (v1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15747423
-
-**BibTeX:**
-
-```bibtex
-@dataset{monge_rogel_2025_15747423,
-  author       = {Monge Rogel, Ricardo and
-                  Durán-González, Guillermo Bernardo and
-                  Panes-Martínez, Mónica and
-                  Rojas Cabello, Jesús Miguel and
-                  Cáceres-Chomalí, Rodrigo Ignacio},
-  title        = {Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety},
-  month        = {June},
-  year         = {2025},
-  publisher    = {Zenodo},
-  version      = {v1.0.1},
-  doi          = {10.5281/zenodo.15747423},
-  url          = {https://doi.org/10.5281/zenodo.15747423}
-}
-```
