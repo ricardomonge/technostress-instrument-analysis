@@ -16,7 +16,7 @@ This repository contains the R scripts and anonymized datasets used in the devel
 The theoretical framework, methodology, and full discussion of the results derived from these scripts and datasets are published in:
 
 > **Development and validation of a scale to assess technostress, technological self-efficacy, self-reported academic performance, and perceived digital safety in first-year undergraduate students**
-> *Social Sciences & Humanities Open*
+> *Social Sciences & Humanities Open*, Volume 14 (2026).
 > DOI: [10.1016/j.ssaho.2026.103648](https://doi.org/10.1016/j.ssaho.2026.103648)
 
 ## Repository Structure
@@ -123,7 +123,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you use this instrument, datasets, or scripts in your work, please cite the primary published article:
 
 *APA:*
-> Monge-Rogel, R., et al. (2026). Development and validation of a scale to assess technostress, technological self-efficacy, self-reported academic performance, and perceived digital safety in first-year undergraduate students. *Social Sciences & Humanities Open*, 103648. https://doi.org/10.1016/j.ssaho.2026.103648
+> Monge-Rogel, R., Durán-González, G., Panes-Martínez, M., Cáceres-Chomalí, R., & Rojas-Cabello, J. (2026). Development and validation of a scale to assess technostress, technological self-efficacy, self-reported academic performance, and perceived digital safety in first-year undergraduate students. *Social Sciences & Humanities Open*, *14*, 103648. https://doi.org/10.1016/j.ssaho.2026.103648
 
 Additionally, you can cite the dataset and scripts directly from Zenodo:
 > Monge Rogel, R., Durán-González, G. B., Panes-Martínez, M., Rojas Cabello, J. M., & Cáceres-Chomalí, R. I. (2025). Data and R Scripts for the Validation of a Scale on Technostress, Technological Self-Efficacy, Academic Performance, and Digital Safety (v1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15747423
